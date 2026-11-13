@@ -121,8 +121,8 @@ The application is currently implemented as a single HTML file containing the HT
 
 **Developer:** Arpon Sarkar Choity
 
-**GitHub:** 
+**GitHub:** https://arpon-sarkar.github.io/Healthcare_Report_Analyzer/
 
-## License
+
 
 This project is developed for educational and academic purposes.
